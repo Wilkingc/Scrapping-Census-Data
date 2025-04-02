@@ -1,4 +1,3 @@
-# Scrapping-Census-Data
 
 # Scrapping-Census-Data
 
