@@ -9,7 +9,7 @@ The purpose of this project is to provide a practical example of web scraping te
 
 ## Notebook Description
 
-* `census_data_extraction.ipynb`: This notebook includes Python code that:
+* `Scrapping-Census_Data.ipynb`: This notebook includes Python code that:
     * Uses libraries like `requests` and `BeautifulSoup` to download and parse HTML content from Census Bureau web pages.
     * Demonstrates how to identify and extract relevant data elements.
     * Provides examples of how to organize and store the extracted data (e.g., into Pandas DataFrames).
